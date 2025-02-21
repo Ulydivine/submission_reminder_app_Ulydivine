@@ -32,8 +32,8 @@ cat << EOF > "$dir/assets/submissions.txt"
 student, assignment, submission status
 Chinemerem, Shell Navigation, not submitted
 Chiagoziem, Git, submitted
-Lydivine, Shell Navigation, not submitted
-Marcel, Shell Basics, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
 Aline, Shell Navigation, not submitted
 France, Shell Navigation, not submitted
 Wacka, Shell Navigation, not submitted
